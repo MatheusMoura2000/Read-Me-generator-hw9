@@ -1,3 +1,5 @@
 # hw7
 hw 7
-user created a read me generator 
+allows user created a read me generator 
+
+running short on time so did not make video.
